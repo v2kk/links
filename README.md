@@ -13,3 +13,7 @@ Link to blogs, talks, paper, books,..
 ## Distributed system
 
 ## Software Engineering
+
+## Others
+- [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+- [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
